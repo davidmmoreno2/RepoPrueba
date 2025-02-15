@@ -1,0 +1,6 @@
+sdjfskdfksdksk hola mundo
+<<<<<<< HEAD
+cambio error
+=======
+cambio introducido
+>>>>>>> 948567cc1e02cb62c220d3a42e4776463abc003d
